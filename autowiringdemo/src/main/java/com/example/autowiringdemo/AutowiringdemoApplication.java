@@ -13,11 +13,5 @@ public class AutowiringdemoApplication {
 
 		SpringApplication.run(AutowiringdemoApplication.class, args);
 
-
-
-
-
-
-
 	}
 }
